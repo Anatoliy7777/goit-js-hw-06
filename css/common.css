@@ -22,3 +22,7 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+.flex-container > li {
+  line-height: 75px;
+}
